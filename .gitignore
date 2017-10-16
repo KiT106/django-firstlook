@@ -228,3 +228,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Custom ignore
+*.sqlite3
